@@ -1,9 +1,9 @@
 ### Olá, sou o Ygor Vieira.
 
-## 🚀 **Junior Back-End Developer on [Neot](https://neotbr.com/)**  
-## 🐍 Python, focused on API creation.  
-## 🛠️ Passionate about clean code, automation, and back-end architecture.  
-## 📚 Always learning and growing!
+### 🚀 **Junior Back-End Developer on [Neot](https://neotbr.com/)**  
+### 🐍 Python, focused on API creation.  
+### 🛠️ Passionate about clean code, automation, and back-end architecture.  
+### 📚 Always learning and growing!
 
 
  <div>
