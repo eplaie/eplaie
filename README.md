@@ -1,5 +1,11 @@
 ### Olá, sou o Ygor Vieira.
 
+## 🚀 **Junior Back-End Developer on [Neot](https://neotbr.com/)**  
+## 🐍 Python, focused on API creation.  
+## 🛠️ Passionate about clean code, automation, and back-end architecture.  
+## 📚 Always learning and growing!
+
+
  <div>
   <a href="https://github.com/eplaie">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eplaie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
